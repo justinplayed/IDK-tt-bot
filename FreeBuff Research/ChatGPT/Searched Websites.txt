@@ -1,0 +1,11 @@
+Searched Websites ledger (started 2026-10-03 16:12 Amsterdam)
+NOTE: cloud container, no user Desktop; files kept in repo dir FreeBuff Research/ChatGPT
+
+Timestamp: 2026-10-03 16:14 Amsterdam
+Domain: z2u.com / eldorado.gg / g2g.com
+Direct URL: https://www.z2u.com/chatgpt/accounts-5-20670 (Z2U ChatGPT category, from search)
+Discovery: WebSearch "Z2U ChatGPT Plus account private 1 month"
+Price shown: search snippet only, "from $8.8" (unverified, not opened)
+Final price if verified: none
+Result: UNVERIFIED (BLOCKED: egress proxy denies z2u.com, eldorado.gg, g2g.com - organization policy)
+Notes: could not open listings, so private/shared status, fees, VAT and checkout total are unknown.
